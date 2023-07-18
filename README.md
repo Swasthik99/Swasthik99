@@ -1,4 +1,4 @@
-# 👋 Hello, I'm M Swasthik kulal!
+# 👋 Hello, I'm Swasthik kulal!
 
 
 👩‍💻 AI & Machine Learning Engineering Student | 🌍 Passionate about Coding and Machine Learning Algorithms

@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Swasthik kulal!
 
 
-👩‍💻 AI & Machine Learning Engineering Student | 🌍 Passionate about Coding and Machine Learning Algorithms
+👩‍💻 AI & Machine Learning Engineer | 🌍 Passionate about Coding and Machine Learning Algorithms
 
 ### About Me
 
